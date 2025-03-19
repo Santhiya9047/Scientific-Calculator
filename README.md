@@ -12,7 +12,7 @@ HOW TO USE:
 1.Run the script
 2.Choose an operation (1-11) from the menu.
 3.Enter the required numerical values.
-4.Get the result instantly!
+4.Get the result instantly.
 5.Type 'exit' to quit the calculator.
 
 TECHNOLOGIES USED:
